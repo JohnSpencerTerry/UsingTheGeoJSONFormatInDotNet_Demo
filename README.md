@@ -1,4 +1,4 @@
-# UsingTheGeoJSONFormatInDotNet_Demo
+# Using the GeoJSON Format In .NET
 
 GeoJSON is a geospatial variant of JSON that allows you to easily represent arrays of points, polygons, and other geometric objects. 
 
